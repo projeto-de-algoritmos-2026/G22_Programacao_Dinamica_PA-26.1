@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Real Brasileiro",
+    "sigla": "BRL"
+  },
+  {
+    "nome": "Euro",
+    "sigla": "EUR"
+  },
+  {
+    "nome": "Libra Esterlina",
+    "sigla": "GBP"
+  },
+  {
+    "nome": "Iene Japonês",
+    "sigla": "JPY"
+  },
+  {
+    "nome": "Dolar Americano",
+    "sigla": "USD"
+  }
+]
