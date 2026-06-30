@@ -1,7 +1,7 @@
 # Sistema Inteligente de Conversão de Moedas utilizando Bellman-Ford
 
 **Número da Lista:** 22  
-**Disciplina:** Estruturas de Dados
+**Disciplina:** Projeto de Algoritmos
 
 ## Alunos
 
@@ -73,7 +73,7 @@ A principal motivação para a escolha do Bellman-Ford foi sua capacidade de res
 
 ### Vídeo do trabalho
 
-[Clique aqui para assistir à demonstração](link)
+[Clique aqui para assistir à demonstração](https://youtu.be/Ce6M4vTUFBE)
 
 ---
 
