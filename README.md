@@ -22,12 +22,54 @@ A principal motivação para a escolha do Bellman-Ford foi sua capacidade de res
 
 ## Screenshots
 
-Inclua aqui capturas de tela da aplicação, como:
 
-- Tela inicial do programa
-- Tela de cadastro de moedas
-- Tela de conversão e arbitragem
-- Tela de visualização do grafo
+<div align="center">
+
+**Tela Início - Visao geral do sistema, com atalhos para cadastro, conversao, arbitragem e grafo.**
+
+<img src="classes/assets/tela1.jpeg" alt="Tela inicial do sistema" width="70%" />
+
+</div>
+
+<div align="center">
+
+**Tela Moedas - Cadastro e edicao de moedas registradas no sistema.**
+
+<img src="classes/assets/tela2.jpeg" alt="Cadastro de moedas" width="70%" />
+
+</div>
+
+<div align="center">
+
+**Tela Taxas - Cadastro e manutencao das taxas de conversao entre moedas.**
+
+<img src="classes/assets/tela3.jpeg" alt="Cadastro de taxas" width="70%" />
+
+</div>
+
+<div align="center">
+
+**Tela Conversoes - Execucao da conversao com relatorio do Bellman-Ford.**
+
+<img src="classes/assets/tela4.jpeg" alt="Tela de conversoes" width="70%" />
+
+</div>
+
+<div align="center">
+
+**Tela Arbitragem - Busca de ciclos negativos e oportunidades de lucro.**
+
+<img src="classes/assets/tela5.jpeg" alt="Tela de arbitragem" width="70%" />
+
+</div>
+
+<div align="center">
+
+**Tela Grafo - Visualizacao das relacoes entre as moedas no grafo.**
+
+<img src="classes/assets/tela6.jpeg" alt="Visualizacao do grafo" width="70%" />
+
+</div>
 
 ### Vídeo do trabalho
 
